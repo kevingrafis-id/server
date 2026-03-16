@@ -1,0 +1,6 @@
+{
+  "base_url": "https://organic-yodel-q77gqw45j9rph99r4-5000.app.github.dev",
+  "download_endpoint": "/download",
+  "process_endpoint": "/process_video",
+  "proxy_endpoint": "/proxy_download"
+}
